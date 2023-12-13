@@ -1,10 +1,10 @@
-# python-challenge
- Python Scripts for PyBank & PyPoll
+# PyBank_PyPoll_Analysis
+ PyBank & PyPoll Analaysis for Observations
 
 
-# Welcome to Python Challenges Project
+# Welcome to PyBank PyPoll Analysis
 
-- The python challenge include two different sections i.e PyBank and Pyboll 
+- The python  include two different sections i.e PyBank and Pyboll 
 
 # 1 PyBank
 
